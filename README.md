@@ -24,3 +24,8 @@
    go run cmd/server/main.go
 
 Server runs on http://localhost:8080
+
+## TestCases
+<img width="832" height="154" alt="image" src="https://github.com/user-attachments/assets/2730a638-a633-4f36-b25e-89061432db6d" />
+
+
